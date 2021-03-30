@@ -1,3 +1,1 @@
 # AnalystApp-Server
-Server
-NEW
